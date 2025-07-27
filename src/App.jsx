@@ -6,6 +6,7 @@ import { Header } from "./components/header";
 import { Hero } from "./components/hero";
 import { SiideBar } from "./components/sidebar";
 import { Testimonials } from "./components/testimonials";
+import "./styles/main.module.css";
 
 function App() {
   return (
